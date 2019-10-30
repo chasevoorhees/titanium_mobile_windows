@@ -41,7 +41,7 @@
 		"lodash.union": "^4.6.0",
 		"node-appc": "^0.3.0",
 		"request": "^2.88.0",
-		"temp": "^0.9.0",
+		"temp": "^0.9.1",
 		"titanium": "^5.2.0",
 		"windowslib": "^0.6.7"
 	},
