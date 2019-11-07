@@ -31,7 +31,7 @@
 		"commander": "^2.9.0",
 		"ejs": "github:garymathews/ejs",
 		"eslint": "^5.16.0",
-		"eslint-config-axway": "^4.1.1",
+		"eslint-config-axway": "^4.5.0",
 		"eslint-plugin-mocha": "^5.2.0",
 		"fs-extra": "^7.0.1",
 		"inquirer": "^6.2.1",
